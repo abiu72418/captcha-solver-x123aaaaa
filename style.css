@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+#captchaDisplay {
+    margin-top: 20px;
+}
+
+#solvedText {
+    margin-top: 10px;
+    font-weight: bold;
+    color: green;
+}
